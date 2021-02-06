@@ -8,7 +8,7 @@ geeadd>=0.5.1
 geocoder
 ipyevents
 ipyfilechooser
-ipyleaflet<=0.13.3
+ipyleaflet=0.13.6
 ipynb-py-convert
 ipytree
 matplotlib
